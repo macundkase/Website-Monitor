@@ -1,4 +1,4 @@
-package website.monitor;
+package websiteMonitor;
 
 import java.util.concurrent.TimeUnit;
 
