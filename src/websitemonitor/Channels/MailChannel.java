@@ -1,4 +1,4 @@
-package website.monitor.Channels;
+package websiteMonitor.Channels;
 
 public class MailChannel implements ResponseChannel {
     @Override
