@@ -1,6 +1,6 @@
-package website.monitor;
+package websiteMonitor;
 
-import website.monitor.Channels.ResponseChannel;
+import websiteMonitor.Channels.ResponseChannel;
 
 import java.util.ArrayList;
 import java.util.List;
