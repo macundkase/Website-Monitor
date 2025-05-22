@@ -1,4 +1,4 @@
-package website.Channels;
+package website.monitor.Channels;
 
 public class SmsChannel implements ResponseChannel {
     @Override
