@@ -1,5 +1,5 @@
-package de.frauas.Channels;
+package website.Channels;
 
-public interface IResponseChannel {
+public interface ResponseChannel {
     void notify(String message);
 }
